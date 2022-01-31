@@ -1,0 +1,13 @@
+
+html{
+    scroll-behavior: smooth;
+}
+#__next-prerender-indicator{
+    display: none;
+}
+section{
+    min-width:500px;
+}
+a:link {
+    text-decoration: none;
+}
